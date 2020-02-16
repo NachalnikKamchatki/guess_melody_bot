@@ -9,7 +9,7 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 
-config.py
+#config.py
 
 # User-specific stuff
 .idea/
